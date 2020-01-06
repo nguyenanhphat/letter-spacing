@@ -1,0 +1,10 @@
+.tox .tox-collection--grid .tox-collection__group {
+  flex-direction: column;
+  padding: 10px !important;
+  width: 200px;
+}
+
+.tox .tox-collection__item-icon {
+  /* width: 100% !important; */
+  justify-content: left !important;
+}
